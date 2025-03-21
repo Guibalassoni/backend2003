@@ -9,7 +9,7 @@ EX 5: C)
 EX 6: C)
 EX 7: Sim, pois o spring framework trata-se de uma aplicação muito flexível, sem custo, de código aberto, com diversas funcionalidades disponíveis. Por ser associado a springboot permite a criação de aplicações mais modernas e simplificadas e por ser em java utiliza do Java Virtual Machine sendo benéfico para produções a nível empresarial
 EX 8: Sem resposta
-EX 9: 
+EX 9: Arquivo Pet-api no GitHub
 EX 10: Sem resposta
 EX 11: C)
 EX 12: O Spring Data JPA é vantajoso devido sua capacidade de simplificar e agilizar aplicações a partir do momento que elimina a necessidade de escrever uma grande parte do código associado ao acesso a dados.
